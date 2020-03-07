@@ -1,0 +1,30 @@
+body {
+  background-color: #fffdf9;
+}
+
+h1 {
+  color: #00818a;
+}
+
+h3 {
+  margin-left: 20px;
+  color: #49beb7;
+}
+
+hr {
+  margin-left: 300px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ccc;
+  border-width: 5px;
+  width: 5%;
+}
+
+table {
+  margin-left: 20px;
+}
+
+a {
+  margin: 20px;
+  color: #00818a;
+}
